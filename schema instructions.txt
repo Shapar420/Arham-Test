@@ -1,0 +1,10 @@
+create a schema draft for me according to my backend and give me a rough plam for it right now, do not create it yet and establish you are connected to supabase via the mcp
+Create and official implementation plan document to begin (then see it in artifacts)
+Proceed with it afterwards and ask it to create the data base
+
+has database been created and punlished to supabase and connected with bacvkend?
+
+then go to supabase and open project and left column would be github
+
+then write the following promot
+ensure that all my backend api routes are connected or updated accoding to the database schema structure
